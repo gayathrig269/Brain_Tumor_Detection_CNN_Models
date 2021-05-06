@@ -13,7 +13,7 @@ URL : https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 2. Brain Tumor Dataset, made publicly available by Cheng, Southern Medical University
 Size : 838 MB
 
-This dataset contains 3054 Brain MRI images in .mat format, which was converted to .npy format for better visualization.
+This dataset contains 3064 Brain MRI images in .mat format, which was converted to .npy format for better visualization.
 URL : https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5?file=7953679
 
 
