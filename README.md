@@ -5,14 +5,16 @@ This project aims to classify whther a subject has brain tumor or not, via MRI i
 ## A. Datasets
 1. Kaggle dataset
 Size : 8 MB
-URL : https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
+
 This dataset contains MRI scans of 2 classes, YES - 1 encoded for tumor, NO - 0 encoded for no tumor.
+URL : https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection
 
 
 2. Brain Tumor Dataset, made publicly available by Cheng, Southern Medical University
 Size : 838 MB
-URL : https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5?file=7953679
+
 This dataset contains 3054 Brain MRI images in .mat format, which was converted to .npy format for better visualization.
+URL : https://figshare.com/articles/dataset/brain_tumor_dataset/1512427/5?file=7953679
 
 
 ## B. What is VGG-16 ? 
